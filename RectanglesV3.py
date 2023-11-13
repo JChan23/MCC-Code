@@ -1,3 +1,5 @@
+#V1 and V2 only worked for specific conditions. This code works for any conditions/constraints given
+
 array = []
 
 file = open("text.txt", "r") #requires external file
